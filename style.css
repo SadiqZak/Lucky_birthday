@@ -22,10 +22,12 @@ body{
 }
 
 input{
+    max-width: 300px;
+    width: 80%;
     font-family: 'Open Sans', sans-serif;
     font-size: large;
     text-align: left;
-    width: 300px;
+   
     height: auto;
     border-radius: 5px;
     border-color: #05386b;
